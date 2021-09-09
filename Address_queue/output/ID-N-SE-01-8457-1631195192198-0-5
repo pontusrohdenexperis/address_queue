@@ -1,0 +1,1 @@
+insert into customer_info values('23456','lisa','andersson','gatan 14','31234','varberg')
